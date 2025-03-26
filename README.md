@@ -14,4 +14,3 @@ This is a **Django + PostgreSQL + Redis + Celery + Nginx** starter template for 
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/firdavs244/DjangoCeleryRedis.git
-   cd django-docker-starter
